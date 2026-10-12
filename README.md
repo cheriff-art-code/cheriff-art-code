@@ -1,55 +1,38 @@
 # Hi, I'm Gael Cheriff Conseiga 👋
 
-### 💻 Computer Engineering Student | 🤖 AI Enthusiast | 🚀 Lifelong Learner
+### 🎓 Computer Engineering Student | 🌱 Learning Every Day
 
 Welcome to my GitHub!
 
-I'm a Computer Engineering student from Burkina Faso passionate about software engineering, artificial intelligence, and solving real-world problems through technology.
+I'm a first-year Computer Engineering student from Burkina Faso. I'm currently building my foundation in programming, software engineering, and artificial intelligence.
 
-I believe creativity and engineering go hand in hand. My artistic background helps me think differently, design better solutions, and approach challenges with curiosity and innovation.
-
----
+I created this GitHub to document my learning journey, share my projects, and improve my skills one step at a time.
 
 ## 🌱 Currently Learning
 
-- 🐍 Python
-- 💻 C Programming
-- 🌿 Git & GitHub
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- ⚙️ Software Engineering
-
----
-
-## 🎯 Goals
-
-- Become an AI Engineer
-- Build impactful software
-- Contribute to Open Source
-- Keep learning every day
-- Create technology that improves people's lives
-
----
-
-## 🚀 Interests
-
-- Artificial Intelligence
-- Software Development
-- Data Science
-- Open Source
+- Python
+- Git & GitHub
+- Programming Fundamentals
+- Computer Science Basics
 - Problem Solving
-- Technology & Innovation
+
+## 🎯 My Goals
+
+- Build strong programming skills
+- Learn Artificial Intelligence
+- Create useful software projects
+- Contribute to Open Source
+- Keep improving every day
+
+## 📚 What you'll find here
+
+As I learn, I'll share:
+- Programming exercises
+- Personal projects
+- University projects
+- Experiments and practice
+- My progress as a developer
 
 ---
 
-## 📈 Motto
-
-> *"Learning today to build the intelligent technologies of tomorrow."*
-
----
-
-### 📫 Connect with me
-
-📍 Burkina Faso
-
-⭐ Thanks for visiting my profile!
+> *Every expert was once a beginner.*
