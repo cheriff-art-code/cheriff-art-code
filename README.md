@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Gael Cheriff Conseiga 👋
 
-<!--
-**cheriff-art-code/cheriff-art-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | 🤖 AI Enthusiast | 🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student from Burkina Faso passionate about software engineering, artificial intelligence, and solving real-world problems through technology.
+
+I believe creativity and engineering go hand in hand. My artistic background helps me think differently, design better solutions, and approach challenges with curiosity and innovation.
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python
+- 💻 C Programming
+- 🌿 Git & GitHub
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- ⚙️ Software Engineering
+
+---
+
+## 🎯 Goals
+
+- Become an AI Engineer
+- Build impactful software
+- Contribute to Open Source
+- Keep learning every day
+- Create technology that improves people's lives
+
+---
+
+## 🚀 Interests
+
+- Artificial Intelligence
+- Software Development
+- Data Science
+- Open Source
+- Problem Solving
+- Technology & Innovation
+
+---
+
+## 📈 Motto
+
+> *"Learning today to build the intelligent technologies of tomorrow."*
+
+---
+
+### 📫 Connect with me
+
+📍 Burkina Faso
+
+⭐ Thanks for visiting my profile!
